@@ -2,10 +2,19 @@
 // Připojení k WiFi a MQTT, ovládání LED, detekce tlesknutí
 // v2.4 14.05.2023
 
-// Připojení :
+// Zapojení pro ESP modul:
 //
-
-// Mikrofon (KY-038) VCC → 3.3V , GNG → GND , A0 → A0
+// Pin D1 (Relé): Připojen k relé, které ovládá napájení zařízení zařízení s vyšším odběrem.
+// Pin D2 (WiFi LED): Připojen k LED indikující stav WiFi připojení.
+// Pin D3 (Power Switch LED): Připojen k LED pro indikaci zapnutí.
+// Pin D4 (Tlačítko): Připojen k tlačítku pro manuální ovládání (např. zapnutí/vypnutí).
+// Pin D5 (Červená LED Power): Připojen k červené LED pro indikaci stavu napájení.
+// Pin D6 (Zelená LED Power): Připojen k zelené LED pro indikaci stavu napájení.
+// Pin D7 (Modrá LED Power): Připojen k modré LED pro indikaci stavu napájení.
+// Pin D0 (Power LED): Připojen k LED pro indikaci obecného napájení zařízení.
+// Pin A0 (Mikrofon KY-038): Analogový pin připojený k mikrofonu pro detekci zvukových signálů, jako je tlesknutí. VCC → 3.3V , GNG → GND , A0 → A0
+//
+// Poznámka: Nezapomeňte, že každý pin musí být správně propojen, aby jste si nepoškodili své komponenty.
 
 // Položky s komentářem !! CHANGE !! upravte podle Vašich potřeb
 
