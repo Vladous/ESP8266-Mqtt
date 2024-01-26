@@ -20,8 +20,3 @@ Kontribuce
 Pokud máte nápady na vylepšení tohoto projektu, budeme rádi za příspěvky a pull requesty.
 
 Můžete také hlásit chyby a problémy v sekci Issues.
-
-Licence
-Tento projekt je licencován pod [LICENSE NAME]. Pro více informací si přečtěte soubor LICENSE.
-
-Toto je jen základní popis. Můžete přidat další informace, jako je seznam podporovaných zařízení, ukázky kódu nebo instrukce pro konfiguraci MQTT serverů a zařízení. Důležité je, aby popis byl stručný, ale informativní a mohl přilákat zájemce k prozkoumání vašeho projektu.
