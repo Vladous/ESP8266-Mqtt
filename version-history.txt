@@ -1,0 +1,9 @@
+v1.0 20.03.2020
+v1.1 14.02.2021 Prodloužení času stisknutí
+v1.2 08.04.2021 Prodloužení času stisknutí , proměné názvu HostName a device
+v2.0 12.06.2021 Oprava pžipojrní po výpadku WiFi , Prodloužení času stisknutí
+v2.1 16.11.2021 Pokus o pravu rozkmitání zpětnou vazbou
+v2.3 16.11.2021 Json objekt
+v2.3 22.11.2021 Json výběr
+v2.4 14.05.2023 Úprava restartu zažízení při problémech se spojením s WiFi / MQTT podle OpenAI
+                Přidání funkce mikrofonu pro ovládání tlesknutím
