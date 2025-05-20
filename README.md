@@ -1,5 +1,8 @@
 ESP8266 MQTT Device Control
 
+📌 Další projekty a info: [vladous.funsite.cz](https://vladous.funsite.cz)
+
+
 Tento projekt umožňuje ovládat různá zařízení (LED, RGB LED, relé) pomocí modulu ESP8266 a komunikace přes MQTT. Jednoduše upravte typ zařízení a nastavte adresy serverů a můžete začít ovládat vaše zařízení prostřednictvím MQTT.
 
 Funkce
